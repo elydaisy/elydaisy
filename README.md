@@ -1,9 +1,9 @@
 ### Boas vindas ao meu perfil 😄
 
-Meu nome e Ely Daisy
+Meu nome é Ely Daisy.
 
-- Estou estudando Sistemas de Informação;
-- Estou me desenvolvendo em Programação Web;
+- Estudo Sistemas de Informação;
+- Estou me desenvolvendo inicialmente em Programação Web;
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos.
 
 ### Contato
