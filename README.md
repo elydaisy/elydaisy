@@ -10,6 +10,5 @@ Meu nome é Ely Daisy.
 Conhecimentos Gerais: <br>
 #HTML #CSS #JS #FIGMA #GOOGLESTORAGE
 </p>
-### Contato
-
+### Contato ###
 elydaisy1@gmail.com
