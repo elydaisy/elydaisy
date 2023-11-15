@@ -7,7 +7,7 @@ Meu nome é Ely Daisy.
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos.
 
 <p>
-Conhecimentos Gerais:
+Conhecimentos Gerais: <br>
 #HTML #CSS #JS #FIGMA #GOOGLESTORAGE
 </p>
 ### Contato
