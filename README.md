@@ -4,7 +4,7 @@ Meu nome é Ely Daisy.
 
 - Estudo Sistemas de Informação;
 - Estou me desenvolvendo inicialmente em Programação Web;
-- Utilizo esse espaço para organização e compartilhamento dos meus projetos.
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos de estudo.
 
 <p>
 Conhecimentos Gerais: <br>
