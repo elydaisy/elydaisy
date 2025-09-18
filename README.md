@@ -8,7 +8,7 @@ Meu nome é Ely Daisy.
 
 <p>
 Conhecimentos Gerais: <br>
-#HTML #CSS #JS #FIGMA #GOOGLESTORAGE #python #automação
+#HTML #CSS #JS #FIGMA #GOOGLESTORAGE #PYTHON #AUTOMAÇÃO #ANALISEDEDADOS
 
 </p>
 <br>
